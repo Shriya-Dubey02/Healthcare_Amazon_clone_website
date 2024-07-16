@@ -1,0 +1,103 @@
+.backgroundc{
+    background-color: #7E8EF1;
+
+}
+#navbarDropdownMenuLink{
+    color: green;
+    font-size: 15px;
+
+}
+
+.dropdown-item{
+    color: green;
+}
+
+.head1 h1{
+   
+   color: rgb(86, 86, 226);
+   margin-top: 70px;
+   margin-left: -50px;
+   
+}
+.section1{
+    background-color: beige;
+}
+.head1 p{
+text-align: left;
+}
+
+.head1 button{
+    border-radius: 25px;
+    width: 250px;
+    font-size: 20px;
+    margin-bottom: 40px;
+}
+
+.head2 a{
+    color: black;
+    margin-top: 30px;
+}
+.img1{
+
+   margin-left: 200px;   
+}
+
+.section2{
+    background-color: rgb(204, 237, 226);
+}
+.card-body a{
+    text-decoration: none;
+    color: black;
+    
+}
+.card-title{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+
+ 
+
+
+.card-body p{
+    color: green;
+}
+.content3 h1{
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(0, 79, 0);
+    text-align: center;
+    font-size: 90px;
+    margin-top: 30px;
+}
+
+.content3 p{
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(31, 161, 31);
+    text-align: center;
+    font-size: 50px;
+}
+
+.content3 a{
+    color: green;
+    text-align: center;
+    margin-left: 450px;
+    text-decoration: none;
+}
+.content4 h1{
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(0, 79, 0);
+    text-align: center;
+    font-size: 70px;
+    margin-top: 80px;
+}
+.content4 p{
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(31, 161, 31);
+    text-align: center;
+    padding: 0px 400px;
+}
+.content4 a{
+    color: green;
+    text-align: center;
+    margin-left: 450px;
+    text-decoration: none;
+}
